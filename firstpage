@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lane Gate Advisors</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      background-color: #f0f4f7;
+    }
+    .header {
+      background-color: #6AB9E1;
+      padding: 60px 20px;
+      color: white;
+      text-align: center;
+    }
+    .header h1 {
+      font-size: 36px;
+      margin: 0;
+    }
+    .header p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    .about-section {
+      padding: 40px 20px;
+      background-color: #e6ebef;
+      text-align: center;
+    }
+    .about-section h2 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    .about-section p {
+      font-size: 16px;
+      line-height: 1.8;
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: justify;
+    }
+    .about-section .member {
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Lane Gate Advisors, LP</h1>
+    <p>Founded in 2018, Lane Gate Advisors, LP (“Lane Gate”) is an investment manager based in Brooklyn, NY focused on providing investment management services to entities that invest in specific alternative assets with a focus on uncorrelated sectors.</p>
+  </div>
+
+  <div class="about-section">
+    <h2>About</h2>
+    <p>Lane Gate Advisors is a boutique investment management practice focused on certain segments of the specialty finance market. The Principals of Lane Gate have deep experience in all sides of the capital and life settlements markets, ranging from product structuring, development and marketing to raising and deploying capital. Our industry background and relationships are deep and complementary. Lane Gate works with both HNW and institutional investors to tailor investment strategies that best fit their goals.</p>
+    <p class="member">Lane Gate Advisors, LP is a member of <br> The Alternative Investment Management Association</p>
+  </div>
+
+</body>
+</html>
